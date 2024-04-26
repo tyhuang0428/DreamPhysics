@@ -1,7 +1,7 @@
 # DreamPhysics
 *DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors.* A demo for optimizing physical parameters of dynamic 3D Gaussians via the distillation of video diffusion prior.
 
-https://github.com/tyhuang0428/DreamPhysics/assets/56391988/80b97808-00cd-4d15-b66a-1971885b3125
+https://github.com/tyhuang0428/DreamPhysics/assets/56391988/08d12ffa-d5fc-4f5b-940b-4c062ab3dd48
 
 
 ### Installation
