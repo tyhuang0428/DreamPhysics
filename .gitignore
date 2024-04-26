@@ -1,0 +1,15 @@
+data
+model
+.vscode
+.cache
+.threestudio_cache
+.history
+results
+*.ply
+*.pyc
+*.png
+*.jpg
+*.mp4
+model
+log
+__pycache__
