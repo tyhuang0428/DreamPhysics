@@ -1,6 +1,8 @@
 # DreamPhysics
 *DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors.* A demo for optimizing physical parameters of dynamic 3D Gaussians via the distillation of video diffusion prior.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2406.01476-b31b1b.svg)](https://arxiv.org/abs/2406.01476)
+
 https://github.com/tyhuang0428/DreamPhysics/assets/56391988/08d12ffa-d5fc-4f5b-940b-4c062ab3dd48
 
 
@@ -59,3 +61,15 @@ This repo is built based on several open-sourced projects:
 
 - 3D generation project [threestudio](https://github.com/threestudio-project/threestudio) and its extension for [Animate124](https://github.com/HeliosZhao/Animate124/tree/threestudio).
 - WARP-based MPM solver [warp-mpm](https://github.com/zeshunzong/warp-mpm) and physics-based 3D Gaussian method [PhysGaussian](https://github.com/XPandora/PhysGaussian).
+
+We also use [LGM](https://github.com/3DTopia/LGM) to generate 3D assets with 3D GS representation.
+
+### Citation
+```
+@article{huang2024dreamphysics,
+  title={DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors},
+  author={Huang, Tianyu and Zeng, Yihan and Li, Hui and Zuo, Wangmeng and Lau, Rynson WH},
+  journal={arXiv preprint arXiv:2406.01476},
+  year={2024}
+}
+```
